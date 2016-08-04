@@ -1,0 +1,88 @@
+_repo: The-Mysterious-Affair-at-Styles_863
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Christie, Agatha
+    alias: Christie, Agatha Mary Clarissa Miller
+    birthdate: 1890
+    deathdate: 1976
+    gutenberg_agent_id: '451'
+    url: http://www.gutenberg.org/2009/agents/451
+    wikipedia: http://en.wikipedia.org/wiki/Agatha_Christie
+description: "The Mysterious Affair at Styles is a detective novel by Agatha Christie.\
+  \ It was written in the middle of the First World War, in 1916, and first published\
+  \ by John Lane in the United States in October 1920 and in the United Kingdom by\
+  \ The Bodley Head (John Lane's UK company) on 21 January 1921. The US edition retailed\
+  \ at $2.00 and the UK edition at seven shillings and sixpence (7/6).\nStyles was\
+  \ Christie's first published novel. It introduced Hercule Poirot, Inspector (later,\
+  \ Chief Inspector) Japp, and Arthur Hastings. Poirot, a Belgian refugee of the Great\
+  \ War, is settling in England near the home of Emily Inglethorp, who helped him\
+  \ to his new life. His friend Hastings arrives as a guest at her home. When the\
+  \ woman is killed, Poirot uses his detective skills to solve the mystery. This is\
+  \ also the setting of Curtain, Poirot's last case.\nThe book includes maps of the\
+  \ house, the murder scene, and a drawing of a fragment of a will. The true first\
+  \ publication of the novel was as a weekly serial in the The Times, including the\
+  \ maps of the house and other illustrations included in the book. This novel was\
+  \ one of the first ten books published by Penguin Books when it began in 1935.\n\
+  This first mystery novel by Agatha Christie was well received by reviewers. An analysis\
+  \ in 1990 was positive about the plot, considered the novel one of the few by Christie\
+  \ that is well-anchored in time and place, a story that knows it describes the end\
+  \ of an era, and mentions that the plot is clever. Christie had not mastered cleverness\
+  \ in her first novel, as \"too many clues tend to cancel each other out\"; this\
+  \ was judged a difficulty \"which Conan Doyle never satisfactorily overcame, but\
+  \ which Christie would.\"\n From Wikipedia (CC BY-SA)."
+gutenberg_bookshelf: Detective Fiction
+gutenberg_issued: '1997-03-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '863'
+  wikidata: Q472228
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Poirot, Hercule (Fictitious character) -- Fiction'
+- !lcc 'PR'
+- !lcsh 'Detective and mystery stories'
+- !lcsh 'Private investigators -- England -- Fiction'
+- !lcsh 'Belgians -- England -- Fiction'
+- GITenberg
+title: The Mysterious Affair at Styles
+url: http://www.gutenberg.org/ebooks/863
+wikipedia:
+- https://fi.wikipedia.org/wiki/Stylesin_tapaus
+- https://fa.wikipedia.org/wiki/%D9%85%D8%A7%D8%AC%D8%B1%D8%A7%DB%8C_%D8%A7%D8%B3%D8%B1%D8%A7%D8%B1%D8%A2%D9%85%DB%8C%D8%B2_%D8%AF%D8%B1_%D8%A7%D8%B3%D8%AA%D8%A7%DB%8C%D9%84%D8%B2
+- https://bg.wikipedia.org/wiki/%D0%90%D1%84%D0%B5%D1%80%D0%B0%D1%82%D0%B0_%D0%B2_%D0%A1%D1%82%D0%B0%D0%B9%D0%BB%D1%81
+- https://vi.wikipedia.org/wiki/V%E1%BB%A5_%C3%A1n_b%C3%AD_%E1%BA%A9n_%E1%BB%9F_Styles
+- https://lt.wikipedia.org/wiki/M%C4%AFslingas_nutikimas_Stailze
+- https://ne.wikipedia.org/wiki/%E0%A4%A6_%E0%A4%AE%E0%A4%BF%E0%A4%B8%E0%A5%8D%E0%A4%9F%E0%A4%BF%E0%A4%B0%E0%A4%BF%E0%A4%AF%E0%A4%B8_%E0%A4%85%E0%A4%AB%E0%A5%87%E0%A4%AF%E0%A4%B0_%E0%A4%85%E0%A4%AF%E0%A4%BE%E0%A4%9F_%E0%A4%B8%E0%A5%8D%E0%A4%9F%E0%A4%BE%E0%A4%87%E0%A4%B2%E0%A5%8D%E0%A4%B8
+- https://uk.wikipedia.org/wiki/%D0%97%D0%B0%D0%B3%D0%B0%D0%B4%D0%BA%D0%BE%D0%B2%D0%B0_%D0%BF%D1%80%D0%B8%D0%B3%D0%BE%D0%B4%D0%B0_%D0%B2_%D0%A1%D1%82%D0%B0%D0%B9%D0%BB%D0%B7%D1%96
+- https://ja.wikipedia.org/wiki/%E3%82%B9%E3%82%BF%E3%82%A4%E3%83%AB%E3%82%BA%E8%8D%98%E3%81%AE%E6%80%AA%E4%BA%8B%E4%BB%B6
+- https://pt.wikipedia.org/wiki/The_Mysterious_Affair_at_Styles
+- https://es.wikipedia.org/wiki/El_misterioso_caso_de_Styles
+- https://en.wikipedia.org/wiki/The_Mysterious_Affair_at_Styles
+- https://ru.wikipedia.org/wiki/%D0%97%D0%B0%D0%B3%D0%B0%D0%B4%D0%BE%D1%87%D0%BD%D0%BE%D0%B5_%D0%BF%D1%80%D0%BE%D0%B8%D1%81%D1%88%D0%B5%D1%81%D1%82%D0%B2%D0%B8%D0%B5_%D0%B2_%D0%A1%D1%82%D0%B0%D0%B9%D0%BB%D0%B7%D0%B5
+- https://ro.wikipedia.org/wiki/Misterioasa_afacere_de_la_Styles
+- https://ko.wikipedia.org/wiki/%EC%8A%A4%ED%83%80%EC%9D%BC%EC%8A%A4_%EC%A0%80%ED%83%9D%EC%9D%98_%EA%B4%B4%EC%82%AC%EA%B1%B4
+- https://et.wikipedia.org/wiki/Saladuslik_juhtum_Stylesis
+- https://fr.wikipedia.org/wiki/La_Myst%C3%A9rieuse_Affaire_de_Styles
+- https://sh.wikipedia.org/wiki/The_Mysterious_Affair_at_Styles
+- https://zh.wikipedia.org/wiki/%E6%96%AF%E6%B3%B0%E5%B0%94%E6%96%AF%E5%BA%84%E5%9B%AD%E5%A5%87%E6%A1%88
+- https://bs.wikipedia.org/wiki/Misteriozna_afera_u_Stylesu
+- https://pl.wikipedia.org/wiki/Tajemnicza_historia_w_Styles
+- https://da.wikipedia.org/wiki/De_l%C3%A5sede_d%C3%B8re
+- https://sv.wikipedia.org/wiki/En_dos_stryknin
+- https://hu.wikipedia.org/wiki/A_titokzatos_stylesi_eset
+- https://ar.wikipedia.org/wiki/%D9%82%D8%B6%D9%8A%D8%A9_%D8%B3%D8%AA%D8%A7%D9%8A%D9%84%D8%B2_%D8%A7%D9%84%D8%BA%D8%A7%D9%85%D8%B6%D8%A9
+- https://nl.wikipedia.org/wiki/De_onschuldige_moordenaar
+- https://cs.wikipedia.org/wiki/Z%C3%A1hada_na_z%C3%A1mku_Styles
+- https://de.wikipedia.org/wiki/Das_fehlende_Glied_in_der_Kette
+- https://sr.wikipedia.org/wiki/%D0%9C%D0%B8%D1%81%D1%82%D0%B5%D1%80%D0%B8%D1%98%D0%B0_%D1%83_%D0%A1%D1%82%D0%B0%D1%98%D0%BB%D1%81%D1%83
+- https://hy.wikipedia.org/wiki/%D4%BD%D5%B8%D6%80%D5%B0%D6%80%D5%A4%D5%A1%D5%BE%D5%B8%D6%80_%D5%BA%D5%A1%D5%BF%D5%A1%D5%B0%D5%A1%D6%80_%D5%8D%D5%A9%D5%A1%D5%B5%D5%AC%D5%A6%D5%B8%D6%82%D5%B4
+- https://it.wikipedia.org/wiki/Poirot_a_Styles_Court
+- https://la.wikipedia.org/wiki/The_Mysterious_Affair_at_Styles
+- https://hr.wikipedia.org/wiki/Zagonetni_doga%C4%91aj_u_Stylesu
+- https://ca.wikipedia.org/wiki/El_misteri%C3%B3s_cas_de_Styles
+- https://tr.wikipedia.org/wiki/%C3%96l%C3%BCm_Sessiz_Geldi
+- https://he.wikipedia.org/wiki/%D7%94%D7%A8%D7%A6%D7%97_%D7%94%D7%9E%D7%A1%D7%AA%D7%95%D7%A8%D7%99_%D7%91%D7%A1%D7%98%D7%90%D7%99%D7%99%D7%9C
