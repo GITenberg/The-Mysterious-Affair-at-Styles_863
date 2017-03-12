@@ -1,5 +1,8 @@
 _repo: The-Mysterious-Affair-at-Styles_863
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Christie, Agatha
@@ -31,6 +34,8 @@ description: "The Mysterious Affair at Styles is a detective novel by Agatha Chr
   \ in her first novel, as \"too many clues tend to cancel each other out\"; this\
   \ was judged a difficulty \"which Conan Doyle never satisfactorily overcame, but\
   \ which Christie would.\"\n From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/863#The-Mysterious-Affair-at-Styles
 gutenberg_bookshelf: Detective Fiction
 gutenberg_issued: '1997-03-01'
 gutenberg_type: Text
